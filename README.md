@@ -33,9 +33,7 @@ RegisterNumber: 22009033
 
 ## Output:
 
-
-![PYTHON OUTPUT](https://user-images.githubusercontent.com/121418522/212112078-7e8514a4-6cf1-4ce9-b484-112d28216678.png)
-
+![square root of numbers](https://user-images.githubusercontent.com/121418522/212112567-3ac9465e-fc43-49eb-a698-961b7ff25a99.png)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
