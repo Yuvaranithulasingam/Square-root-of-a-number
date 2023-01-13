@@ -23,13 +23,15 @@ def newton_method(number,number_iters=100):
     return number
 a=int(input())
 print("Square root of the number:",newton_method(a))
-```
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: Yuvarani T
 RegisterNumber: 22009033 
 */
 ```
+
+
+
 
 ## Output:
 
