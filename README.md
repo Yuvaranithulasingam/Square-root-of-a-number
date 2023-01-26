@@ -15,12 +15,13 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
+Square root of numbers
 ```
 def newton_method(number,number_iters=100):
-    a=float(number)
-    for i in range(number_iters):
-        number = 0.5*(number+a/number)
-    return number
+a=float(number)
+for i in range(number_iters):
+number = 0.5*(number+a/number)
+return number
 a=int(input())
 print("Square root of the number:",newton_method(a))
 /*
@@ -29,10 +30,6 @@ Developed by: Yuvarani T
 RegisterNumber: 22009033 
 */
 ```
-
-
-
-
 ## Output:
 
 ![square root of numbers](https://user-images.githubusercontent.com/121418522/212112567-3ac9465e-fc43-49eb-a698-961b7ff25a99.png)
